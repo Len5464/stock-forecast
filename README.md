@@ -1,3 +1,6 @@
-# start-up-of-the-year
+台股開盤預測
+===
 
-link is [here](https://len5464.github.io/start-up-of-the-year/)
+- 目前在非常初期階段
+- 待更新...
+link is [here](https://len5464.github.io/stock-forecast/)
